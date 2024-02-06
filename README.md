@@ -37,7 +37,7 @@ File: PruningCompare.py
 
 ![Compare Accuracy](./Outputs/PruningCompareAccuracy.png)
 ![Compare Model Size](./Outputs/PruningCompareSize.png)
-![Compare Quantized Size](./Outputs/PruningCompareQuantizedSize.png)
+![Compare Quantized Size](./Outputs/PruningCompareQuatizedSize.png)
 
 
 ## Pruning Implementation in Keras
