@@ -2,6 +2,8 @@
 
 This repository aims to study Pruning and its effects for Model Compression while also studying the changes in model accuracy. For this two python files have been created, each with its own aim.
 
+[Undertook in 2023, Opened Github in 2024, Hence posting in 2024]
+
 ## Comparing Model Size and Accuracy: Regular CNN vs. Pruned CNN 
 File: PruningCompare.py
 ### Purpose:
